@@ -19,7 +19,8 @@ GET /api/search/
 ### QUERY `metadata`
 This guidelines tries to map metadata standard from **SK KAPUSDATIN KESDM Rev 4.2** to the standard usage in the form of API.
 
-#### [basin](basin.md)
+The standard table and the formatting guidelines in API is written in detail as follows :
+#### [1. basin](basin.md)
 
 ### QUERY `geo_location`
 
