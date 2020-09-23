@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+# Introduction IDOG-API
+Initial (Draft) guidance of Indonesia Oil &amp; Gas API for data exchange.
 
-You can use the [editor on GitHub](https://github.com/wahprima/IDOG-API/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Metadata
+Metadata will be based on [**Permen No 7 Tahun 2019**](https://jdih.esdm.go.id/peraturan/Permen%20ESDM%20Nomor%207%20Tahun%202019.pdf) which comply to international open standard data model [**PPDM 3.9**](https://docs.ppdm.org/). Detailed guidelines of Indonesia metadata standard catalogue is published in **SK KAPUSDATIN KESDM Rev 4.2**.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This guidelines tries to map metadata standard from **SK KAPUSDATIN KESDM Rev 4.2** to the standard usage in the form of API.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+## QUERY
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wahprima/IDOG-API/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+GET /api/search/
+```
