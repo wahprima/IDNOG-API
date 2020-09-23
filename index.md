@@ -19,6 +19,13 @@ GET /api/search/
 ### QUERY `metadata`
 This guidelines tries to map metadata standard from **SK KAPUSDATIN KESDM Rev 4.2** to the standard usage in the form of API.
 
+#### `basin`
+
+SK Rev 4.2 | API
+----------- | -----------
+AREA_ID | areaID
+
+
 ### QUERY `geo_location`
 
 ### QUERY `geo_centroid`
