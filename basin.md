@@ -1,6 +1,6 @@
 # basin
 
-A dictionary of basin metadata in the form of API is described as below :
+A dictionary of basin metadata in the form of API are described as follow :
 
 SK Rev 4.2 | API
 ----------- | -----------
