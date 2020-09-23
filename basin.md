@@ -1,8 +1,8 @@
-# basin
+# Basin - `basin`
 
 Cekungan or from now on will be caled as `basin` is the standard form to be written in the API.
 
-A dictionary of basin metadata in the form of API are described as follow :
+A dictionary from `basin` metadata to API format are described as follow :
 
 SK Rev 4.2 | API
 ----------- | -----------
