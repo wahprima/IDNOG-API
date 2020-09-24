@@ -5,7 +5,7 @@ All standards in this document are based on [**Permen No 7 Tahun 2019**](https:/
 
 
 
-## QUERY
+# QUERY
 ```
 GET /api/search/
 {
@@ -14,15 +14,24 @@ GET /api/search/
 
 ```
 
-### QUERY `fulltext`
+## QUERY `fulltext`#
 
-### QUERY `metadata`
+
+
+## QUERY `metadata`
+
+
 This guidelines tries to map metadata standard from **SK KAPUSDATIN KESDM Rev 4.2** to the standard usage in the API format.
 
 List of tables and the formatting guidelines are documented as follow :
 
-#### [1. Basin - `basin`](basin.md)
+### [1. Basin - `basin`](basin.md)
+### [2. Working Area - `workingArea`](workingArea.md)
 
-### QUERY `geo_location`
 
-### QUERY `geo_centroid`
+## QUERY `geo_location`
+
+
+
+## QUERY `geo_centroid`
+
