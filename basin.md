@@ -1,8 +1,8 @@
 # Basin - `basin`
 
-Basin or commonly known as *Cekungan* in Indonesia, is to be written as `basin` in API format.
+Basin or commonly known as *Cekungan* in Indonesia, is to be written as `basin` in API.
 
-API format based on its reference in `basin` metadata are described as follow :
+The metadata format based on its reference in **SK Kapusdatin ESDM** are described as follow :
 
 SK Rev 4.2 | API
 ----------- | -----------
