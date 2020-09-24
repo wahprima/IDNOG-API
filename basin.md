@@ -1,8 +1,8 @@
 # Basin - `basin`
 
-Cekungan or from now on will be caled as `basin` is the standard form to be written in the API.
+Basin or commonly known as *Cekungan* in Indonesia, is to be written as `basin` in API format.
 
-A dictionary from `basin` metadata to API format are described as follow :
+`basin` metadata dictionary to API format are described as follow :
 
 SK Rev 4.2 | API
 ----------- | -----------
