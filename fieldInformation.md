@@ -1,8 +1,8 @@
 # Field Information - `fieldInformation`
 
-Field Information or commonly known as *Informasi Umum Lapangan* in Indonesia, is to be written as `workingArea` in API format.
+Field Information or commonly known as *Informasi Umum Lapangan* in Indonesia, is to be written as `workingArea` in API.
 
-API format based on its reference in `fieldInformation` metadata are described as follow :
+The metadata format based on its reference in **SK Kapusdatin ESDM** are described as follow :
 
 SK Rev 4.2 | API
 ----------- | -----------
