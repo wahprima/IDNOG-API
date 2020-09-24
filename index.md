@@ -23,7 +23,7 @@ GET /api/search/
 
 ```
 
-## QUERY `fulltext`#
+## QUERY `fulltext`
 
 
 
