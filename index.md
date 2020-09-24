@@ -31,13 +31,15 @@ GET /api/search/
 ## QUERY `metadata`
 
 
-This guidelines tries to map metadata standard from **SK KAPUSDATIN KESDM Rev 4.2** to the standard usage in the API format.
+This guidelines tries to map metadata standard from **SK KAPUSDATIN KESDM** to the standard usage in the API format.
 
 List of tables and the formatting guidelines are documented as follow :
 
 ### [1. Basin - `basin`](basin.md)
 
 ### [2. Working Area - `workingArea`](workingArea.md)
+
+### [3. Field Information - `fieldInformation`](fieldInformation.md)
 
 
 ## QUERY `geo_location`
