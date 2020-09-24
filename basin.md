@@ -21,11 +21,11 @@ DIGITAL_SIZE             |	digitalSize
 DIGITAL_SIZE_UOM         |	digitalSizeUOM
 MEDIA_TYPE               |	mediaType
 REMARK                   |	remark
-SIZE_TYPE                |	sizeTypeOffshore
-SIZE_TYPE                |	sizeTypeOnshore
-GROSS_SIZE               |	grossSizeOffshore
-GROSS_SIZE               |	grossSizeOnshore
-GROSS_SIZE               |	grossSizeTotal
+SIZE_TYPE_Offshore       |	sizeTypeOffshore
+SIZE_TYPE_Onshore        |	sizeTypeOnshore
+GROSS_SIZE_Offshore      |	grossSizeOffshore
+GROSS_SIZE_Onshore       |	grossSizeOnshore
+GROSS_SIZE_Total         |	grossSizeTotal
 SIZE_OUOM                |	sizeOUOM
 FAULT_TYPE               |	faultType
 SOURCE                   |	source
