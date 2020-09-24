@@ -4,16 +4,7 @@ Initial (Draft) guidance of Indonesia Oil &amp; Gas API for data exchange.
 
 All standards in this document are based on [**Permen No 7 Tahun 2019**][1] which comply to the international open standard data model [**PPDM 3.9**][2]. Detail explanation regarding metadata standard catalogue are documented in **SK KAPUSDATIN KESDM Rev 4.2**.
 
-# NAMING CONVENTION
-It is recommended to use camel case for request and response body and query parameter names.
 
-Example :
-```
-//camelCaseSentence
-{
- "areaID" : "12345"
-}
-```
 
 # QUERY
 ```
@@ -35,11 +26,11 @@ This guidelines tries to map metadata standard from **SK KAPUSDATIN KESDM** to t
 
 List of tables and the formatting guidelines are documented as follow :
 
-### [1. Basin - `basin`](basin.md)
+### ~~[1. Basin - `basin`]~~
 
-### [2. Working Area - `workingArea`](workingArea.md)
+### ~~[2. Working Area - `workingArea`]~~
 
-### [3. Field Information - `fieldInformation`](fieldInformation.md)
+### ~~[3. Field Information - `fieldInformation`]~~
 
 
 ## QUERY `geo_location`
