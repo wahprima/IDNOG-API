@@ -2,7 +2,7 @@
 
 Working Area or commonly known as *Wilayah Kerja* in Indonesia, is to be written as `workingArea` in API format.
 
-In API format, `workingArea` metadata are described as follow :
+API format based on its reference in `workingArea` metadata are described as follow :
 
 SK Rev 4.2 | API
 ----------- | -----------
