@@ -2,7 +2,7 @@
 
 Basin or commonly known as *Cekungan* in Indonesia, is to be written as `basin` in API format.
 
-`basin` metadata dictionary to API format are described as follow :
+In API format, `basin` metadata are described as follow :
 
 SK Rev 4.2 | API
 ----------- | -----------
