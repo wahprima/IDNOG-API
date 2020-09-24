@@ -1,8 +1,8 @@
 # Working Area - `workingArea`
 
-Working Area or commonly known as *Wilayah Kerja* in Indonesia, is to be written as `workingArea` in API format.
+Working Area or commonly known as *Wilayah Kerja* in Indonesia, is to be written as `workingArea` in API.
 
-API format based on its reference in `workingArea` metadata are described as follow :
+The metadata format based on its reference in **SK Kapusdatin ESDM** are described as follow :
 
 SK Rev 4.2 | API
 ----------- | -----------
