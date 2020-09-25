@@ -1,3 +1,6 @@
+```diff
+- Not to be used !!
+
 # Basin - `basin`
 
 Basin or commonly known as *Cekungan* in Indonesia, is to be written as `basin` in API.
@@ -31,3 +34,5 @@ FAULT_TYPE               |	faultType
 SOURCE                   |	source
 ROW_QUALITY              |	rowQuality
 CHECKED_BY_BA_ID         |	checkedByBAID
+
+```
