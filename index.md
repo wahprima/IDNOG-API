@@ -8,7 +8,7 @@ All standards in this document are based on [**Permen No 7 Tahun 2019**][1] whic
 
 # QUERY
 ```
-GET /api/search/
+POST /api/search/
 {
 
 }
@@ -20,9 +20,6 @@ GET /api/search/
 
 
 ## QUERY `metadata`
-
-
-This guidelines tries to map metadata standard from **SK KAPUSDATIN KESDM** to the standard usage in the API format.
 
 List of tables and the formatting guidelines are documented as follow :
 
