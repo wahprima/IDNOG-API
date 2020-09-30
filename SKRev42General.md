@@ -6,8 +6,8 @@
 5.	Standar Metadata Katalog Pengadministrasian Data pada Surat Keputusan ini mengacu pada standar model data dari [**Professional Petroleum Model Data (PPDM) versi 3.9**][2]
 6.	Penyerahan dan Penataan Data dilengkapi dengan suatu katalog terpadu yang: 
     1.	Memuat jenis metadata (informasi mengenai data) sesuai dengan ruang lingkup yang ada dalam lampiran ini. 
-    2.	Pengelola data menggunakan teknologi berbasis GIS (Geographical Information System) dalam menampilkan metadatanya. 
-    3.	Penyerah data harus menyertakan data GIS (Geographical Information System) dalam bentuk hardcopy dan atau digital dengan format standar terbuka internasional seperti misalnya OGC Geopackage, GeoJson, OGC GML dan lain-lain, atau format standar yang ditetapkan oleh Kepala Badan Informasi Geospasial.
+    2.	Pengelola data menggunakan teknologi berbasis *GIS (Geographical Information System)* dalam menampilkan metadatanya. 
+    3.	Penyerah data harus menyertakan data *GIS (Geographical Information System)* dalam bentuk hardcopy dan atau digital dengan format standar terbuka internasional seperti misalnya *OGC Geopackage, GeoJson, OGC GML* dan lain-lain, atau format standar yang ditetapkan oleh Kepala Badan Informasi Geospasial.
     4.	Penulisan Tanggal merupakan tipe data berupa tanggal, dengan format DD/MM/YYYY, dimana DD adalah hari ke- dalam satu bulan, MM adalah bulan ke- dalam satu tahun dan YYYY adalah   tahun, apabila hari dan bulan tidak diketahui maka dituliskan dengan notasi 01/01/YYYY.
     5.	Penulisan konten dari metadata merupakan tipe data yang dapat berisi alpanumerik (menggunakan huruf besar / kapital) maupun karakter berupa symbol kecuali ditentukan lain oleh wali data masing-masing.
     6.	Penulisan nama perusahaan, konsorsium atau badan usaha harus sesuai dengan dokumen badan hukum yang diakui (akta perusahaan).
@@ -16,9 +16,9 @@
     9.	Pengisian satuan mengacu pada Sistem Internasional yang diadopsi oleh Badan Standardisasi Nasional (BSN), kecuali ditentukan lain.
     10.	Seluruh metadata dalam lampiran ini sifatnya MANDATORY kecuali ditentukan lain (tidak boleh kosong /Null).
     11.	Kolom REMARK dalam katalog ini wajib diisi dengan keterangan apabila terdapat faktor-faktor yang mempengaruhi kualitas data yang diperoleh sewaktu operasional akuisisi data berlangsung.
-    .	Tipe Media (MEDIA_TYPE) yang dapat digunakan atau diakui dalam lampiran ini adalah:
-  1.	Salinan dalam bentuk cetak: KERTAS, TRANSLUCENT, FILM.
-  2.	Salinan dalam bentuk media: CD-R, DVD-R, TAPE MAGNETIC LTO, EXTERNAL HARDISK.
+    12.	Tipe Media (MEDIA_TYPE) yang dapat digunakan atau diakui dalam lampiran ini adalah:
+        1.	Salinan dalam bentuk cetak: KERTAS, TRANSLUCENT, FILM.
+        2.	Salinan dalam bentuk media: CD-R, DVD-R, TAPE MAGNETIC LTO, EXTERNAL HARDISK.
 7.	Ruang lingkup model data PPDM yang digunakan didefinisikan dalam business module (modul Bisnis) dan supporting module (modul Penunjang), seperti dijabarkan dalam tabel dibawah.
 
 
