@@ -1,42 +1,10 @@
 # INTRODUCTION
-Initial (Draft) guidance of Indonesia Oil &amp; Gas API for data exchange.
+Versi beta (draft) *Indonesia Oil &amp; Gas API for data exchange.*
 
 
-All standards in this document are based on [**Permen No 7 Tahun 2019**][1] which comply to the international open standard data model [**PPDM 3.9**][2]. Detail explanation regarding metadata standard catalogue are documented in [**SK KAPUSDATIN KESDM Rev 4.2**][3].
+Semua standard pada dokumentasi ini berlandaskan aturan [**Permen No 7 Tahun 2019**][1] yang sudah mengacu pada model data standard terbuka internasional [**PPDM 3.9**][2]. Penjelasan detail mengenai standarisasi tersebut tertuang pada [**SK KAPUSDATIN KESDM Rev 4.2**][3] yang dibahas lebih detail pada bagian di bawah.
 
-
-
-
-
-# QUERY
-```
-POST /api/search/
-{
-
-}
-
-```
-
-## QUERY `fulltext`
-
-
-
-## QUERY `metadata`
-
-~~List of tables and the formatting guidelines are documented as follow :~~
-
-### ~~[1. Basin - `basin`]~~
-
-### ~~[2. Working Area - `workingArea`]~~
-
-### ~~[3. Field Information - `fieldInformation`]~~
-
-
-## QUERY `geo_location`
-
-
-
-## QUERY `geo_centroid`
+# SK KAPUSDATIN KESDM Rev 4.2
 
 
 
