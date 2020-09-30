@@ -6,6 +6,8 @@ Semua standard pada dokumentasi ini berlandaskan aturan [**Permen No 7 Tahun 201
 
 # SK KAPUSDATIN KESDM Rev 4.2
 
+## [Penjelasan Umum][3]
+
 
 
 [1]: https://jdih.esdm.go.id/peraturan/Permen%20ESDM%20Nomor%207%20Tahun%202019.pdf
