@@ -19,7 +19,7 @@
     12.	Tipe Media (MEDIA_TYPE) yang dapat digunakan atau diakui dalam lampiran ini adalah:
         1.	Salinan dalam bentuk cetak: KERTAS, TRANSLUCENT, FILM.
         2.	Salinan dalam bentuk media: CD-R, DVD-R, TAPE MAGNETIC LTO, EXTERNAL HARDISK.
-7.	Ruang lingkup model data PPDM yang digunakan didefinisikan dalam business module (modul Bisnis) dan supporting module (modul Penunjang), seperti dijabarkan dalam tabel dibawah.
+7.	Ruang lingkup model data PPDM yang digunakan didefinisikan dalam business module (modul Bisnis) dan supporting module (modul Penunjang), seperti dijabarkan dalam tabel [LINGKUP MODUL PPDM 3.9][4].
 
 
 
@@ -31,3 +31,4 @@
 [1]: https://jdih.esdm.go.id/peraturan/Permen%20ESDM%20Nomor%207%20Tahun%202019.pdf
 [2]: https://docs.ppdm.org/
 [3]: SKRev42General.md
+[4]: lingkupPPDM.md
